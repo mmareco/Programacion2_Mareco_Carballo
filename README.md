@@ -1,6 +1,9 @@
 # Programacion 2
 ## Integrantes del Grupo
 
+- **Nombre Completo:** Martin Pablo Carballo
+- **Legajo:** 1175190
+
 - **Nombre Completo:** Melissa Oriana Mareco
 - **Legajo:** 1148938
 
